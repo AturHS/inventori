@@ -29,23 +29,18 @@
                                             <label>Kode Obat</label>
                                             <input type="text" name="kode_obat" class="form-control"> 
                                         </div>
-
                                          <div class="form-group">
                                             <label>Nama Obat</label>
                                             <input type="text" name="nama_obat" class="form-control"> 
                                         </div>
-
                                          <div class="form-group">
                                             <label>Jumlah Masuk</label>
                                             <input type="text" name="jumlah_masuk" class="form-control"> 
                                         </div>
-
-                                         <div class="form-group">
+                                        <div class="form-group">
                                             <label>Satuan</label>
                                             <input type="text" name="satuan" class="form-control"> 
                                         </div>
-                                        
-                                         
                                         <button type="submit" class="btn btn-success">Submit Button</button>
                                         <button type="reset" class="btn btn-danger">Reset Button</button>
                                     </form>
